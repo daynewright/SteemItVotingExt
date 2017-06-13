@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Steemit Voting Power",
+    "description": "Shows the current voting power for a user on the blog page.",
+    "version": "0.1",
+
+    "content_scripts": [{
+        "js": ["steem.min.js","steemvotedata.js"],
+        "matches": ["https://steemit.com/@*"]
+    }],
+    "permissions": [
+        "activeTab"
+    ]
+}
