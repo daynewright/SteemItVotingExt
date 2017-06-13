@@ -8,7 +8,7 @@ _(Currently you will need to install it yourself until it is added to the Chrome
 
 - Download the repo.
 - Save a copy of this file in the folder and name it [steem.min.js](https://cdn.steemjs.com/lib/latest/steem.min.js)
-- Open your Chrome Extentions by going typing `Chrome://extensions` in your Chrome Browser.
+- Open your Chrome Extentions by typing `Chrome://extensions` in your Chrome Browser.
 - Drag and drop the `SteemitVotingExt` folder to enable the extension.
 - Go to [Steemit](https://www.steemit.com) to view voting power percentages of yourself and other users!
 
